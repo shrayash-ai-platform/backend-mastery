@@ -49,4 +49,4 @@ Learning to build production-ready backend APIs with FastAPI.
 
 ## Author
 
-**Shrayash**
+**SHRAYASH AJAGEKAR**
