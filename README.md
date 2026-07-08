@@ -27,7 +27,7 @@ Become a Backend Developer, build AI products, and launch my own tech business.
 - [x] Password Hashing
 - [x] Register API
 - [ ] Login API
-- [ ] JWT Authentication
+- [x] JWT Authentication
 - [ ] Protected Routes
 - [ ] CRUD APIs
 - [ ] Relationships
